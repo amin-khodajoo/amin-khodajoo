@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="center">A passionate frontend developer from Iran</h4>
 
 ###
