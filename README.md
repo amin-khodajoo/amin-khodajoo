@@ -20,23 +20,13 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="47" alt="typescript logo"  />
-  <img width="29" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo"  />
-  <img width="29" />
-  <img src="https://skillicons.dev/icons?i=js" height="47" alt="javascript logo"  />
-  <img width="29" />
-  <img src="https://skillicons.dev/icons?i=css" height="47" alt="css3 logo"  />
-  <img width="29" />
-  <img src="https://skillicons.dev/icons?i=html" height="47" alt="html5 logo"  />
-  <img width="29" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="47" alt="git logo"  />
-  <img width="29" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="47" alt="bootstrap logo"  />
-  <img width="29" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo"  />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,css,html,react,tailwind,bootstrap,sass,git,npm,vite,figma&perline=4" />
+  </a>
+</p>
+
+
 
 ###
 
