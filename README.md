@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,css,html,react,tailwind,bootstrap,sass,git,npm,vite,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=ts,js,css,html,react,tailwind,bootstrap,sass,git,npm,vite,figma&perline=6" />
   </a>
 </p>
 
