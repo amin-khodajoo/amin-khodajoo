@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Amin</h2>
+<h1 align="left">Amin khodajoo</h1>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="left">I'm a passionate Junior Front-End Developer with a keen interest in creating responsive and user-friendly websites. I love exploring new web technologies and improving my skills every day. Currently, I'm working with HTML, CSS, JavaScript, and React to build amazing web experiences. Feel free to check out my projects and contributions</h4>
+<h4 align="left">Hi ,  I'm a passionate Junior Front-End Developer with a keen interest in creating responsive and user-friendly websites. I love exploring new web technologies and improving my skills every day. Currently, I'm working with HTML, CSS, JavaScript, and React to build amazing web experiences. Feel free to check out my projects and contributions.</h4>
 
 ###
 
